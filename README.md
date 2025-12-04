@@ -259,7 +259,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by kishor sutar
 
 ## 🙏 Acknowledgments
 
